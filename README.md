@@ -2,7 +2,7 @@
 
 Built in 5 hours to ease the navigation of events in this year's Develop Denver Website using React.
 
-The data was seeded to a backend rails api linked below.
+This API passes data to a frontend React application.
 
 [Frontend](https://github.com/bal360/nav-develop-denv-front-end)
 
