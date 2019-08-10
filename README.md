@@ -1,24 +1,15 @@
-# README
+## Hackathon App 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Built in 5 hours to ease the navigation of events in this year's Develop Denver Website using React.
 
-Things you may want to cover:
+The data was seeded to a backend rails api linked below.
 
-* Ruby version
+[Frontend](https://github.com/bal360/nav-develop-denv-front-end)
 
-* System dependencies
+Team:
+- [Ricardo Ortega](https://github.com/rj-ortega)
+- [Blake Long](https://githubt.com/bal360)
+- [Fekade Senbeta](https://github.com/fekadesenbeta)
+- [Luke Menard](https://github.com/lukemenard)
+- [Jeremiah Tabb](https://github.com/jollyjerr)
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
